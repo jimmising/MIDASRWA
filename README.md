@@ -1,5 +1,6 @@
 # MIDASRWA
 Channel: https://t.me/jimmising1
+My refflink: https://t.me/MidasRWA_bot/app?startapp=ref_4e34c35b-385f-4d69-a07d-0ed48412049
 
 ## Acction
 
