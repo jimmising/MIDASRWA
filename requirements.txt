@@ -1,0 +1,7 @@
+requests
+requests[socks]
+colorama
+pytz
+pandas
+numpy
+cloudscraper

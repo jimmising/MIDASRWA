@@ -1,2 +1,0 @@
-# MIDASRWA
-#midarwa #bottelegram
