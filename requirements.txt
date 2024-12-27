@@ -1,4 +1,4 @@
-pyamor
+pyarmor
 requests
 requests[socks]
 colorama
